@@ -9,6 +9,7 @@ license = "CC0 1.0 Universal"
 python = "^3.10"
 pandas = "^1.4.2"
 numpy = "^1.22.4"
+matplotlib = "^3.5.2"
 
 [tool.poetry.dev-dependencies]
 ipykernel = "^6.13.0"
